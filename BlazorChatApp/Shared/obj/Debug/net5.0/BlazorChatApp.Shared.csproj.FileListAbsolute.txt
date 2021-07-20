@@ -1,0 +1,12 @@
+C:\Users\jcuud\Documents\Dev\BlazorChatApp\BlazorChatApp\Shared\bin\Debug\net5.0\BlazorChatApp.Shared.deps.json
+C:\Users\jcuud\Documents\Dev\BlazorChatApp\BlazorChatApp\Shared\bin\Debug\net5.0\BlazorChatApp.Shared.dll
+C:\Users\jcuud\Documents\Dev\BlazorChatApp\BlazorChatApp\Shared\bin\Debug\net5.0\ref\BlazorChatApp.Shared.dll
+C:\Users\jcuud\Documents\Dev\BlazorChatApp\BlazorChatApp\Shared\bin\Debug\net5.0\BlazorChatApp.Shared.pdb
+C:\Users\jcuud\Documents\Dev\BlazorChatApp\BlazorChatApp\Shared\obj\Debug\net5.0\BlazorChatApp.Shared.csproj.AssemblyReference.cache
+C:\Users\jcuud\Documents\Dev\BlazorChatApp\BlazorChatApp\Shared\obj\Debug\net5.0\BlazorChatApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcuud\Documents\Dev\BlazorChatApp\BlazorChatApp\Shared\obj\Debug\net5.0\BlazorChatApp.Shared.AssemblyInfoInputs.cache
+C:\Users\jcuud\Documents\Dev\BlazorChatApp\BlazorChatApp\Shared\obj\Debug\net5.0\BlazorChatApp.Shared.AssemblyInfo.cs
+C:\Users\jcuud\Documents\Dev\BlazorChatApp\BlazorChatApp\Shared\obj\Debug\net5.0\BlazorChatApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\jcuud\Documents\Dev\BlazorChatApp\BlazorChatApp\Shared\obj\Debug\net5.0\BlazorChatApp.Shared.dll
+C:\Users\jcuud\Documents\Dev\BlazorChatApp\BlazorChatApp\Shared\obj\Debug\net5.0\ref\BlazorChatApp.Shared.dll
+C:\Users\jcuud\Documents\Dev\BlazorChatApp\BlazorChatApp\Shared\obj\Debug\net5.0\BlazorChatApp.Shared.pdb
